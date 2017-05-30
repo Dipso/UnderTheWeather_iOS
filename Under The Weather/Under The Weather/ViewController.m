@@ -611,7 +611,7 @@
 }
 
 
-
+// Make the first letter a capital in the string.
 - (NSString *) capitalizedFirstLetter:(NSString *)str
 {
 	if (str == nil)
